@@ -1,23 +1,23 @@
-def addition(num1, num2)
+def addition(1, 2)
 
 end
 
-def subtraction(num1, num2)
+def subtraction(2, 1)
 
 end
 
-def division(num1, num2)
+def division(4, 2)
 
 end
 
-def multiplication(num1, num2)
+def multiplication(2, 2)
 
 end
 
-def modulo(num1, num2)
+def modulo(5, 2)
 
 end
 
-def square_root(num)
+def square_root(8)
 
 end
